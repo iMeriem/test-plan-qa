@@ -204,13 +204,16 @@ All integrate with your existing Prometheus/Grafana/Loki stack. Most are open-so
 
 Choose what works best:
 
-### Option B: Weekly Rate
-**$200/week for 4 weeks** - Flexible if scope changes
+### Option A: Weekly Rate
+**$200/week for 4 weeks** 
+- Flexible if scope changes
 - Adjust timeline if needed
 - Pay weekly as work progresses
+- (recommended for simplicity)
 
-### Option C: Hourly (Capped)
-**$13/hour, max 60 hours** - Pay for actual time
+### Option B: Hourly (Capped)
+**$13/hour, max 60 hours** 
+- Pay for actual time
 - Track time transparently
 - Cap provides budget certainty
 
